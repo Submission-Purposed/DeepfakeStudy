@@ -13,6 +13,7 @@ Redistribution, commercial exploitation, or derivative works are prohibited with
 Repository Layout
 
 deepfake-study/
+├── Documents/     
 ├── code/          # Python/R notebooks & scripts for preprocessing and statistics
 ├── analysis/      # Generated figures, tables, and model outputs
 ├── recordings/    # EEG / eye‑tracking time‑series (pseudonymised)

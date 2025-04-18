@@ -18,7 +18,7 @@ deepfake-study/
 ├── recordings/    # EEG / eye‑tracking time‑series (pseudonymised)
 └── videos/        # Stimulus set (YouTube links + hashed local copies)
 
-Folder Details
+*Folder Details:* https://drive.google.com/drive/folders/1MbBOfLokyz61v9-HCCI4rI6g8SAb7ANZ?usp=sharing
 
 Folder
 
